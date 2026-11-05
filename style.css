@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background:#f7f6fc;
+    margin: 20px;
+}
+.header{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+.title{
+    font-weight: 700;
+    font-size: 40px;
+}
+.title i{
+    color: #5b5ce2;
+    padding-right: 10px;
+}
+input{
+    padding: 15px 12px;
+    border: 2px solid rgb(199, 199, 199);
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(30, 30, 60, 0.06);
+}
+input:focus{
+    outline: none;
+    border-color: #5b5ce2;
+}
+.all-catagories{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.filter-btn{
+    padding: 12px 14px;
+    width: 100px;
+    background: rgb(226, 226, 226);
+    border: none;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+.filter-btn:hover{
+    background:#494acb;
+    color: white;
+}
+.filter-btn:focus{
+    background: #5b5ce2;
+    color: white;
+}
+.buttons{
+    gap: 10px;
+    display: flex;
+}
+select{
+    width: 200px;
+    padding: 12px 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(30, 30, 60, 0.06);
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px,300px));
+    justify-content: center;
+    gap: 30px;
+    padding: 50px ;
+}
+.message{
+    text-align: center;
+    font-weight: 700;
+    margin: 70px 0;
+    font-size: 40px;
+}
+.card{
+    background: white;
+    width: 300px;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(30, 30, 60, 0.06);
+
+}
+.card img{
+    width: 270px;
+    border-radius: 10px;
+    height: auto;
+    object-fit: cover;
+}
+.productName{
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.productPrice{
+    padding-bottom: 10px;
+    font-weight: 600;
+    font-size: 22px;
+}
+.buy-btn{
+    width: 100%;
+    padding: 12px 15px;
+    background: #5b5ce2;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    transition: all 0.3s ease;
+}
+.buy-btn:hover{
+    background: #3d3db2;
+}
+
+@media(max-width :768px){
+    .header{
+        display: block;
+        width: 100%;
+    }
+    .title{
+        text-align: center;
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .all-catagories{
+        width: 100%;
+        display: block;
+    }
+    .buttons{
+        padding-bottom: 20px;
+    }
+}
