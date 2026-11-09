@@ -14,7 +14,7 @@ https://roghayem.github.io/product-search-filter/
 
 ## 🖼️ Preview
 
-![(https://github.com/roghayem/product-search-filter/blob/main/assest/product%20filter.jpeg)]
+![https://github.com/roghayem/product-search-filter/blob/main/assest/product%20filter.jpeg)
 
 ---
 
