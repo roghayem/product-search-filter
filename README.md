@@ -1,64 +1,63 @@
 # 🛍️ Product Search & Filter
 
-A simple and responsive Product Search & Filter project built using HTML, CSS, and JavaScript. This project was created as a practice exercise to learn how to display products dynamically, search for specific items, and filter products based on different criteria.
+A simple and responsive Product Search & Filter application built with HTML, CSS, and JavaScript. This project allows users to search for products, filter them by category, and sort them by price.
 
 ---
 
 ## 🌟 Live Demo
 
-👉 View Live Demo:
-
-https://roghayem.github.io/product-search-filter/
+[View Live Demo](https://roghayem.github.io/product-search-filter/)
 
 ---
 
 ## 🖼️ Preview
 
-![Product Search and Filter Preview](./assest/product%20filter.jpeg)
+![Product Search and Filter Preview](https://github.com/roghayem/product-search-filter/raw/main/assest/product%20filter.jpeg)
 
 ---
 
 ## ✨ Features
 
-* 🔍 Search products by name
-* 🏷️ Filter products by category
-* 💰 Sort products by price
-* 📈 Sort products from low to high
-* 📉 Sort products from high to low
-* 🛒 Display product information dynamically
-* 📱 Responsive design
-* 🎨 Clean and user-friendly interface
+- Search products by name
+- Filter products by category
+- Sort products by price
+- Sort prices from low to high
+- Sort prices from high to low
+- Dynamically display product information
+- Responsive layout for different screen sizes
+- Clean and user-friendly interface
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* DOM Manipulation
-* JavaScript Array Methods
-* JavaScript Events
-* Array Filtering and Sorting
-* CSS Flexbox
-* CSS Grid
-* Media Queries
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- DOM Manipulation
+- JavaScript Array Methods (`filter()`, `map()`, `sort()`)
+- JavaScript Events
+- CSS Flexbox
+- CSS Grid
+- Media Queries
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Getting Started
+
+To run this project locally:
 
 1. Clone the repository:
 
-```bash
-git clone YOUR-REPOSITORY-LINK
-```
+   ```bash
+   git clone https://github.com/roghayem/product-search-filter.git
+   ```
 
-2. Open the project folder:
+2. Navigate to the project folder:
 
-```bash
-cd product-search-filter
-```
+   ```bash
+   cd product-search-filter
+   ```
 
 3. Open `index.html` in your browser.
 
@@ -72,37 +71,36 @@ product-search-filter/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── images/
+├── assest/
+│   └── product filter.jpeg
 └── README.md
 ```
 
 ---
 
-## 🎯 Project Goals
+## 🎯 What I Learned
 
-This project was created to practice and improve:
+Through this project, I practiced:
 
-* Working with JavaScript Arrays
-* Using `filter()`, `map()`, and `sort()`
-* Searching and Filtering Data
-* DOM Manipulation
-* Handling User Events
-* Working with Dynamic Content
-* Conditional Logic
-* Responsive Web Design
-* Front-End Development Fundamentals
+- Working with JavaScript arrays
+- Using `filter()`, `map()`, and `sort()`
+- Searching and filtering data
+- Manipulating the DOM
+- Handling user events
+- Rendering dynamic content
+- Applying conditional logic
+- Building responsive layouts
 
 ---
 
-## 📧 Contact
+## 👩‍💻 Author
 
-Feel free to explore my GitHub profile and check out more of my projects.
+**Roghaye Mohammadi**
 
-GitHub: https://github.com/roghayem
+- GitHub: [@roghayem](https://github.com/roghayem)
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a star on GitHub.
+If you find this project useful, consider giving it a star on GitHub!
