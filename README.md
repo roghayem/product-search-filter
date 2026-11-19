@@ -7,6 +7,7 @@ A simple and responsive Product Search & Filter application built with HTML, CSS
 ## 🌟 Live Demo
 
 [View Live Demo](https://roghayem.github.io/product-search-filter/)
+👉 View Live Demo: [View Live Demo](https://roghayem.github.io/product-search-filter/)
 
 ---
 
