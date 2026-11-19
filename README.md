@@ -12,7 +12,7 @@ A simple and responsive Product Search & Filter application built using HTML, CS
 
 ## 🖼️ Preview
 
-[Product Search & Filter](https://github.com/roghayem/product-search-filter/raw/main/assest/product%20filter.jpeg)
+![Product Search & Filter](https://github.com/roghayem/product-search-filter/raw/main/assest/product%20filter.jpeg)
 
 ---
 
