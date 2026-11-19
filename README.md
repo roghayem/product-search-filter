@@ -1,19 +1,18 @@
 # 🛍️ Product Search & Filter
 
-A simple and responsive Product Search & Filter application built with HTML, CSS, and JavaScript. This project allows users to search for products, filter them by category, and sort them by price.
+A simple and responsive Product Search & Filter application built using HTML, CSS, and JavaScript. This project allows users to search for products, filter them by category, and sort products by price.
 
 ---
 
 ## 🌟 Live Demo
 
-[View Live Demo](https://roghayem.github.io/product-search-filter/)
-👉 View Live Demo: [View Live Demo](https://roghayem.github.io/product-search-filter/)
+👉 View Live Demo: [https://roghayem.github.io/product-search-filter/](https://roghayem.github.io/product-search-filter/)
 
 ---
 
 ## 🖼️ Preview
 
-![Product Search and Filter Preview](https://github.com/roghayem/product-search-filter/raw/main/assest/product%20filter.jpeg)
+[Product Search & Filter](https://github.com/roghayem/product-search-filter/raw/main/assest/product%20filter.jpeg)
 
 ---
 
@@ -54,7 +53,7 @@ To run this project locally:
    git clone https://github.com/roghayem/product-search-filter.git
    ```
 
-2. Navigate to the project folder:
+2. Open the project folder:
 
    ```bash
    cd product-search-filter
@@ -79,7 +78,7 @@ product-search-filter/
 
 ---
 
-## 🎯 What I Learned
+## 📚 What I Learned
 
 Through this project, I practiced:
 
@@ -100,8 +99,4 @@ Through this project, I practiced:
 
 - GitHub: [@roghayem](https://github.com/roghayem)
 
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub!
+⭐ If you like this project, feel free to give it a star!
